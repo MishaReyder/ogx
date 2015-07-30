@@ -1,0 +1,77 @@
+@font-face {
+    font-family: AvanteGardeBold;
+    src: url(../fonts/AvanteGarde-regular.otf) format("opentype");
+    font-weight: 600;
+}
+@font-face {
+    font-family: Bodoni;
+    src: url(../fonts/Bodoni-Roman.ttf);
+}
+@font-face {
+    font-family: Goudy;
+    src: url(../fonts/Goudy-regular.ttf);
+}
+#logo {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#giftcard_btn {
+    margin-bottom: 15px;
+}
+#giftcard_btn .material-icons {
+    margin-top: -2px;
+}
+.collapsible-body {
+    background-color: white;
+}
+.collapsible-body ul {
+    padding: 20px;
+}
+.overlay {
+    background-color: rgba(36, 36, 36, 0.8);
+}
+ul li a i.material-icons {
+    margin-top: -13px;
+}
+.ogx-header-text {
+    color: #65583A;
+    font-family: AvanteGardeBold;
+}
+.ogx-button {
+    background: #65583A;
+}
+.flow-text {
+    font-family: Goudy;
+}
+#services {
+    font-family: Bodoni;
+    font-size: 1.4em;
+}
+.parallax-container {
+    height: 900px;
+}
+#contact {
+    margin-top: -5px;
+}
+#social {
+    padding-bottom: 10px;
+}
+#links {
+    font-size: 1.3em;
+}
+#links a {
+    color: #FFF;
+}
+.google-maps {
+    position: relative;
+    padding-bottom: 75%; // This is the aspect ratio
+    height: 0;
+    overflow: hidden;
+}
+.google-maps iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    height: 100% !important;
+}
