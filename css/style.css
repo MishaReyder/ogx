@@ -53,7 +53,7 @@ ul li a i.material-icons {
     margin-top: -5px;
 }
 #social {
-    padding-bottom: 10px;
+    height: auto;
 }
 #links {
     font-size: 1.3em;
