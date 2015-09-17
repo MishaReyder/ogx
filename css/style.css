@@ -21,6 +21,9 @@
 #giftcard_btn .material-icons {
     margin-top: -2px;
 }
+.btn:hover, .btn-large:hover {
+    background-color: #ffd900;
+}
 .collapsible-body {
     background-color: white;
 }
